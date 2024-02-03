@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyOb9uHwE3eoABEmMEUL6+q5",
+      "authorship_tag": "ABX9TyNh8F8/LviONlOKIvk1AuEs",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -23,7 +23,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/Musfiquer-Prottoy/Python-Problems/blob/main/CSE111_Lab_01.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/Musfiquer-Prottoy/Python-Problems/blob/main/Dictionary\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
@@ -593,6 +593,17 @@
           ]
         }
       ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Task 07\n"
+      ],
+      "metadata": {
+        "id": "CtDBo0785FCS"
+      },
+      "execution_count": null,
+      "outputs": []
     }
   ]
 }
